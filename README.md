@@ -2,7 +2,7 @@
 CS Studio Final Assignment
 
 All the .pde files are Processing sketches necessary for the functioning of the program.
-The pogram uses the Tablet library, developped by Andres Colubri and downloadable at https://github.com/codeanticode/tablet
+The pogram uses the Tablet library, developped by Andres Colubri and downloadable at https://github.com/codeanticode/tablet or thrugh the "Add Library..." tool in the Processing IDE
 
 
 Copyright (c) 2019 Lorenzo Anzuini. MIT License.
