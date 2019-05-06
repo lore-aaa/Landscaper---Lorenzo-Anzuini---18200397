@@ -90,7 +90,7 @@ class LiveLine {
 
     stroke(c);
     strokeWeight(4);
-    line(x1, y1, mouseX, mouseY);
+    line(x1, y1, x2, y2);
 
     popStyle();
   }
